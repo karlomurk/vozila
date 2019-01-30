@@ -1,0 +1,7 @@
+c:\Users\Karlo\source\repos\Vozila\Vozila\bin\Debug\Vozila.exe.config
+c:\Users\Karlo\source\repos\Vozila\Vozila\bin\Debug\Vozila.exe
+c:\Users\Karlo\source\repos\Vozila\Vozila\bin\Debug\Vozila.pdb
+c:\Users\Karlo\source\repos\Vozila\Vozila\obj\Debug\Vozila.csprojAssemblyReference.cache
+c:\Users\Karlo\source\repos\Vozila\Vozila\obj\Debug\Vozila.csproj.CoreCompileInputs.cache
+c:\Users\Karlo\source\repos\Vozila\Vozila\obj\Debug\Vozila.exe
+c:\Users\Karlo\source\repos\Vozila\Vozila\obj\Debug\Vozila.pdb
